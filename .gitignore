@@ -38,3 +38,5 @@
 *.log
 *.tlog
 *.idb
+*.VC.VC.opendb
+*.VC.*
